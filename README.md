@@ -1,4 +1,4 @@
 # Nepali Vehicle Number plate detector
 
-This is a simple nepali vehicle number plate detector trained using YOLO 26 model.
+This is an incomplete nepali vehicle number plate detector project.
 

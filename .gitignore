@@ -1,0 +1,8 @@
+#dataset
+/num_plate_dataset/
+
+/runs/
+
+#models
+/yolo26m.pt 
+/yolo26n.pt

@@ -1,8 +1,17 @@
 #dataset
 /num_plate_dataset/
+/ocr_dataset/
+
 
 /runs/
 
 #models
 /yolo26m.pt 
 /yolo26n.pt
+
+#images
+/plate1.jpg
+/cropped-detections/
+
+#video
+/videos

@@ -15,7 +15,6 @@ video_name = os.path.splitext(os.path.basename(video_path))[0]
 output_dir = f"cropped-detections/{video_name}"
 os.makedirs(output_dir, exist_ok=True)
 
-
 # Video
 cap = cv2.VideoCapture(video_path)
 assert cap.isOpened(), "Error reading video file"

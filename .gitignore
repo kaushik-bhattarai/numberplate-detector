@@ -18,6 +18,8 @@
 /plate1.jpg
 /cropped-detections/
 /ocr-inference/
+/images/
+/cropped-plates/
 
 #video
 /videos

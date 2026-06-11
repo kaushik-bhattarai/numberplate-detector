@@ -1,0 +1,10 @@
+<View>
+  <Image name="image" value="$image"/>
+  <RectangleLabels name="bbox" toName="image">
+    <Label value="text" background="green"/>
+  </RectangleLabels>
+  <TextArea name="transcription" toName="image"
+            perRegion="true" editable="true"
+            displayMode="region-list" rows="2"
+            placeholder="Recognized text"/>
+</View>

@@ -1,10 +1,15 @@
+
+# copies all the images that were labeled in lable studio into /verified-plates folder.
+# /corrected-plates folder was then deleted.
+
+
 import json
 import os
 import shutil
 
 EXPORT_PATH = "json_files/final_data.json"
 IMAGE_DIR = "corrected-plates"
-DEST_DIR = "verified-plates"      # folder for kept images
+DEST_DIR = "verified-plates"    
 
 os.makedirs(DEST_DIR, exist_ok=True)
 

@@ -15,11 +15,14 @@
 /best_resnet_plate_chars.pt
 
 #images
-/plate1.jpg
 /cropped-detections/
 /ocr-inference/
 /images/
 /cropped-plates/
+/verified-plates/
 
 #video
 /videos
+
+#json files
+/json_files/

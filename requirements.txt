@@ -1,0 +1,12 @@
+easyocr==1.7.2
+numpy==2.4.6
+opencv_contrib_python==4.10.0.84
+opencv_python==4.8.1.78
+opencv_python_headless==4.13.0.92
+paddlepaddle==3.3.1
+Pillow==12.2.0
+PyYAML==6.0.2
+PyYAML==6.0.3
+torch==2.7.1+cu118
+tqdm==4.67.3
+ultralytics==8.4.56
